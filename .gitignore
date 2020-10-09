@@ -14,3 +14,58 @@ Project/Project/obj/Project.csproj.nuget.dgspec.json
 Project/Project/obj/Project.csproj.nuget.g.props
 Project/Project/obj/Project.csproj.nuget.g.targets
 Project/Project/obj/project.nuget.cache
+Project/Teacher Program/bin/Debug/netcoreapp3.1/Teacher Program.runtimeconfig.json
+Project/Teacher Program/bin/Debug/netcoreapp3.1/Teacher Program.runtimeconfig.dev.json
+Project/Teacher Program/bin/Debug/netcoreapp3.1/Teacher Program.pdb
+Project/Teacher Program/bin/Debug/netcoreapp3.1/Teacher Program.exe
+Project/Teacher Program/bin/Debug/netcoreapp3.1/Teacher Program.dll
+Project/Teacher Program/bin/Debug/netcoreapp3.1/Teacher Program.deps.json
+Project/Teacher Program/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+Project/Teacher Program/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+Project/Teacher Program/bin/Debug/netcoreapp3.1/Microsoft.Xaml.Behaviors.dll
+Project/Teacher Program/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+Project/Teacher Program/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+Project/Teacher Program/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Project/Teacher Program/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+Project/Teacher Program/bin/Debug/netcoreapp3.1/MahApps.Metro.dll
+Project/Teacher Program/bin/Debug/netcoreapp3.1/ControlzEx.dll
+Project/Teacher Program/obj/Teacher Program.csproj.nuget.g.targets
+Project/Teacher Program/obj/Teacher Program.csproj.nuget.g.props
+Project/Teacher Program/obj/Teacher Program.csproj.nuget.dgspec.json
+Project/Teacher Program/obj/project.nuget.cache
+Project/Teacher Program/obj/project.assets.json
+Project/Teacher Program/obj/Debug/netcoreapp3.1/TestWindow/TestMainWindow.g.i.cs
+Project/Teacher Program/obj/Debug/netcoreapp3.1/TestWindow/TestMainWindow.g.cs
+Project/Teacher Program/obj/Debug/netcoreapp3.1/TestWindow/TestMainWindow.baml
+Project/Teacher Program/obj/Debug/netcoreapp3.1/Teacher Program_MarkupCompile.lref
+Project/Teacher Program/obj/Debug/netcoreapp3.1/Teacher Program_MarkupCompile.i.lref
+Project/Teacher Program/obj/Debug/netcoreapp3.1/Teacher Program_MarkupCompile.i.cache
+Project/Teacher Program/obj/Debug/netcoreapp3.1/Teacher Program_MarkupCompile.cache
+Project/Teacher Program/obj/Debug/netcoreapp3.1/Teacher Program.pdb
+Project/Teacher Program/obj/Debug/netcoreapp3.1/Teacher Program.genruntimeconfig.cache
+Project/Teacher Program/obj/Debug/netcoreapp3.1/Teacher Program.g.resources
+Project/Teacher Program/obj/Debug/netcoreapp3.1/Teacher Program.exe
+Project/Teacher Program/obj/Debug/netcoreapp3.1/Teacher Program.dll
+Project/Teacher Program/obj/Debug/netcoreapp3.1/Teacher Program.designer.runtimeconfig.json
+Project/Teacher Program/obj/Debug/netcoreapp3.1/Teacher Program.designer.deps.json
+Project/Teacher Program/obj/Debug/netcoreapp3.1/Teacher Program.csprojAssemblyReference.cache
+Project/Teacher Program/obj/Debug/netcoreapp3.1/Teacher Program.csproj.FileListAbsolute.txt
+Project/Teacher Program/obj/Debug/netcoreapp3.1/Teacher Program.csproj.CoreCompileInputs.cache
+Project/Teacher Program/obj/Debug/netcoreapp3.1/Teacher Program.csproj.CopyComplete
+Project/Teacher Program/obj/Debug/netcoreapp3.1/Teacher Program.assets.cache
+Project/Teacher Program/obj/Debug/netcoreapp3.1/Teacher Program.AssemblyInfoInputs.cache
+Project/Teacher Program/obj/Debug/netcoreapp3.1/Teacher Program.AssemblyInfo.cs
+Project/Teacher Program/obj/Debug/netcoreapp3.1/MainWindow.g.i.cs
+Project/Teacher Program/obj/Debug/netcoreapp3.1/LoginWindow/SignUp.g.i.cs
+Project/Teacher Program/obj/Debug/netcoreapp3.1/LoginWindow/SignUp.g.cs
+Project/Teacher Program/obj/Debug/netcoreapp3.1/LoginWindow/SignUp.baml
+Project/Teacher Program/obj/Debug/netcoreapp3.1/LoginWindow/SignIn.g.i.cs
+Project/Teacher Program/obj/Debug/netcoreapp3.1/LoginWindow/SignIn.g.cs
+Project/Teacher Program/obj/Debug/netcoreapp3.1/LoginWindow/SignIn.baml
+Project/Teacher Program/obj/Debug/netcoreapp3.1/LoginWindow/MainWindow.g.i.cs
+Project/Teacher Program/obj/Debug/netcoreapp3.1/LoginWindow/MainWindow.g.cs
+Project/Teacher Program/obj/Debug/netcoreapp3.1/LoginWindow/MainWindow.baml
+Project/Teacher Program/obj/Debug/netcoreapp3.1/App.g.i.cs
+Project/Teacher Program/obj/Debug/netcoreapp3.1/App.g.cs
+Project/Teacher Program/obj/Debug/netcoreapp3.1/App.baml
+Project/Teacher Program/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs

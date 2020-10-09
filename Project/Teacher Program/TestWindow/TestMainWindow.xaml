@@ -1,0 +1,26 @@
+﻿<Controls:MetroWindow x:Class="Teacher_Program.TestWindow.TestMainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+         xmlns:Controls="http://metro.mahapps.com/winfx/xaml/controls"
+        xmlns:local="clr-namespace:Teacher_Program.TestWindow"
+        mc:Ignorable="d"
+        WindowStyle="None"  IgnoreTaskbarOnMaximize="True" WindowTitleBrush="Black" WindowStartupLocation="CenterScreen"
+        WindowTransitionsEnabled="False" BorderBrush="Black" Title="TestMainWindow" Height="800" MinHeight="330" GlowBrush="Aqua" Width="1400" MinWidth="800" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid Name="mainGrid">
+            <ScrollViewer VerticalScrollBarVisibility="Auto">
+                <WrapPanel Name="mainWrapPanel" Orientation="Horizontal" Margin="15,15,15,15" HorizontalAlignment="Center" VerticalAlignment="Center"></WrapPanel>
+            </ScrollViewer>
+
+            <Button HorizontalAlignment="Right" VerticalAlignment="Bottom" Background="{x:Null}" BorderBrush="{x:Null}" Click="Button_Click" Margin="5">
+                <Image Source="https://img.icons8.com/plasticine/2x/back.png" MaxHeight="50" Stretch="Uniform" ></Image>
+            </Button>
+        </Grid>
+
+    </Grid>
+</Controls:MetroWindow>

@@ -1,0 +1,32 @@
+﻿<Controls:MetroWindow x:Class="Teacher_Program.LoginWindow.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:Controls="http://metro.mahapps.com/winfx/xaml/controls"
+        xmlns:local="clr-namespace:Teacher_Program.LoginWindow"
+        mc:Ignorable="d"
+        WindowStyle="None" 
+        ResizeMode="CanMinimize"                     
+        IgnoreTaskbarOnMaximize="True"
+        WindowTitleBrush="Black"
+        WindowStartupLocation="CenterScreen"
+        WindowTransitionsEnabled="False"
+        BorderBrush="Black"
+        Title="MainWindow" Height="550" Width="650" GlowBrush="Aqua" Loaded="MetroWindow_Loaded">
+    <Grid Background="#FF12063A">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.18*"></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <StackPanel HorizontalAlignment="Right" Orientation="Horizontal" Margin="0,0,35,0">
+                <Button Margin="5" BorderBrush="Black" BorderThickness="2" Background="#FFD6F3EF" MinWidth="45" Click="SignInButtonClick">Войти</Button>
+                <Button Margin="0,5" BorderBrush="Black" BorderThickness="2" Background="#FFD6F3EF" MinWidth="125" Click="SignUpButtonClick">Зарегистрироваться</Button>
+            </StackPanel>
+        </Grid>
+        <Frame Name="frame" Margin="35" Background="#FFD6F3EF" BorderBrush="Black" BorderThickness="2" NavigationUIVisibility="Hidden"></Frame>
+
+    </Grid>
+</Controls:MetroWindow>
