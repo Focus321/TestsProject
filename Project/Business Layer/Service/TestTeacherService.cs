@@ -18,7 +18,7 @@ namespace Business_Layer.Service
             List<TestViewModel> tests = new List<TestViewModel>();
 
             foreach (var item in teacher.Tests)
-            {            
+            {
                 List<QuestionViewModel> questions = new List<QuestionViewModel>();
                 var ress = await _unit.Test.GetTestByIdAsync(item.Id);
 
@@ -66,47 +66,44 @@ namespace Business_Layer.Service
             TestViewModel test = new TestViewModel();
             var res = await _unit.Test.GetTestByIdAsync(idTest);
 
-            foreach (var item in res.Completeds)
-            {
-                List<QuestionViewModel> questions = new List<QuestionViewModel>();
-                var ress = await _unit.Test.GetTestByIdAsync(item.TestId);
+            List<QuestionViewModel> questions = new List<QuestionViewModel>();
 
-                foreach (var item2 in ress.Questions)
+            foreach (var item2 in res.Questions)
+            {
+                var answers = await _unit.Answer.GetAnswerByConditionAsync(x => x.QuestionId == item2.Id);
+                List<AnswerViewModel> answer = new List<AnswerViewModel>();
+                foreach (var item3 in answers)
                 {
-                    var answers = await _unit.Answer.GetAnswerByConditionAsync(x => x.QuestionId == item2.Id);
-                    List<AnswerViewModel> answer = new List<AnswerViewModel>();
-                    foreach (var item3 in answers)
+                    answer.Add(new AnswerViewModel()
                     {
-                        answer.Add(new AnswerViewModel()
-                        {
-                            Id = item3.Id,
-                            ResponseText = item3.ResponseText,
-                            Right = item3.Right
-                        });
-                    }
-                    questions.Add(new QuestionViewModel()
-                    {
-                        Id = item2.Id,
-                        QuestionText = item2.QuestionText,
-                        Appraisal = item2.Appraisal,
-                        ImagePath = item2.ImagePath,
-                        Answers = answer
+                        Id = item3.Id,
+                        ResponseText = item3.ResponseText,
+                        Right = item3.Right
                     });
                 }
-
-                test.Id = ress.Id;
-                test.ImagePath = ress.ImagePath;
-                test.TestName = ress.TestName;
-                test.NumberOfAttempts = ress.NumberOfAttempts;
-                test.Questions = questions;
-                test.Teacher = new TeacherViewModel()
+                questions.Add(new QuestionViewModel()
                 {
-                    FullName = ress.Teacher.FullName,
-                    Subject = ress.Teacher.Subject
-                };
-
+                    Id = item2.Id,
+                    QuestionText = item2.QuestionText,
+                    Appraisal = item2.Appraisal,
+                    ImagePath = item2.ImagePath,
+                    Answers = answer
+                });
             }
+
+            test.Id = res.Id;
+            test.ImagePath = res.ImagePath;
+            test.TestName = res.TestName;
+            test.NumberOfAttempts = res.NumberOfAttempts;
+            test.Questions = questions;
+            test.Teacher = new TeacherViewModel()
+            {
+                FullName = res.Teacher.FullName,
+                Subject = res.Teacher.Subject
+            };
+
+        
             return test;
         }
-    }
+}
 }

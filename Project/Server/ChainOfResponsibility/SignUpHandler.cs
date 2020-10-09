@@ -14,7 +14,7 @@ namespace Server.ChainOfResponsibility
             if (command.UserCommand == UserCommandServer.SignUp && command.AdminCommand == AdminCommandServer.NoCommand)
             {
                 Command sendCommand = new Command();
-                if (await LoginTeacherService.AddNewUserAsync(new RegistrationViewModel() { FullName = command.Student.FullName, Login = command.Student.Login, Password = command.Student.Password }))
+                if (await LoginStudentService.AddNewUserAsync(new RegistrationViewModel() { FullName = command.Student.FullName, Login = command.Student.Login, Password = command.Student.Password }))
                 {
                     sendCommand.IsSignIn = true;
                     sendCommand.Id = LoginStudentService.CurrentUser.Id;
