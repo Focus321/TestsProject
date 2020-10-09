@@ -1,0 +1,174 @@
+D:\Программы\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\Student Program.csprojAssemblyReference.cache
+D:\Программы\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\LoginWindow\MainWindow.g.cs
+D:\Программы\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Программы\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\Student Program_MarkupCompile.cache
+D:\Программы\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\Student Program_MarkupCompile.lref
+D:\Программы\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\LoginWindow\SignIn.g.cs
+D:\Программы\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\LoginWindow\SignUp.g.cs
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Student Program.exe
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Student Program.deps.json
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Student Program.runtimeconfig.json
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Student Program.runtimeconfig.dev.json
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Student Program.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Student Program.pdb
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\ControlzEx.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\MahApps.Metro.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Data Access Layer.dll
+D:\Программы\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Data Access Layer.pdb
+D:\Программы\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\App.baml
+D:\Программы\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\LoginWindow\MainWindow.baml
+D:\Программы\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\LoginWindow\SignIn.baml
+D:\Программы\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\LoginWindow\SignUp.baml
+D:\Программы\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\Student Program.g.resources
+D:\Программы\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\Student Program.csproj.CoreCompileInputs.cache
+D:\Программы\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\Student Program.AssemblyInfoInputs.cache
+D:\Программы\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\Student Program.AssemblyInfo.cs
+D:\Программы\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\Student Program.csproj.CopyComplete
+D:\Программы\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\Student Program.dll
+D:\Программы\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\Student Program.pdb
+D:\Программы\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\Student Program.genruntimeconfig.cache
+D:\Программы\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\TestWindow\TestMainWindow.g.cs
+D:\Программы\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\TestWindow\TestMainWindow.baml
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Student Program.exe
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Student Program.deps.json
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Student Program.runtimeconfig.json
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Student Program.runtimeconfig.dev.json
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Student Program.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Student Program.pdb
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\ControlzEx.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\MahApps.Metro.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Data Access Layer.dll
+D:\08.10.2020\TestsProject\Project\Student Program\bin\Debug\netcoreapp3.1\Data Access Layer.pdb
+D:\08.10.2020\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\Student Program.csprojAssemblyReference.cache
+D:\08.10.2020\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\LoginWindow\MainWindow.g.cs
+D:\08.10.2020\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\LoginWindow\SignIn.g.cs
+D:\08.10.2020\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\LoginWindow\SignUp.g.cs
+D:\08.10.2020\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\TestWindow\TestMainWindow.g.cs
+D:\08.10.2020\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\App.g.cs
+D:\08.10.2020\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\Student Program_MarkupCompile.cache
+D:\08.10.2020\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\Student Program_MarkupCompile.lref
+D:\08.10.2020\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\App.baml
+D:\08.10.2020\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\LoginWindow\MainWindow.baml
+D:\08.10.2020\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\LoginWindow\SignIn.baml
+D:\08.10.2020\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\LoginWindow\SignUp.baml
+D:\08.10.2020\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\TestWindow\TestMainWindow.baml
+D:\08.10.2020\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\Student Program.g.resources
+D:\08.10.2020\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\Student Program.AssemblyInfoInputs.cache
+D:\08.10.2020\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\Student Program.AssemblyInfo.cs
+D:\08.10.2020\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\Student Program.csproj.CoreCompileInputs.cache
+D:\08.10.2020\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\Student Program.csproj.CopyComplete
+D:\08.10.2020\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\Student Program.dll
+D:\08.10.2020\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\Student Program.pdb
+D:\08.10.2020\TestsProject\Project\Student Program\obj\Debug\netcoreapp3.1\Student Program.genruntimeconfig.cache
+D:\Программы\Новая папка\Project\Student Program\bin\Debug\netcoreapp3.1\Student Program.exe
+D:\Программы\Новая папка\Project\Student Program\bin\Debug\netcoreapp3.1\Student Program.deps.json
+D:\Программы\Новая папка\Project\Student Program\bin\Debug\netcoreapp3.1\Student Program.runtimeconfig.json
+D:\Программы\Новая папка\Project\Student Program\bin\Debug\netcoreapp3.1\Student Program.runtimeconfig.dev.json
+D:\Программы\Новая папка\Project\Student Program\bin\Debug\netcoreapp3.1\Student Program.dll
+D:\Программы\Новая папка\Project\Student Program\bin\Debug\netcoreapp3.1\Student Program.pdb
+D:\Программы\Новая папка\Project\Student Program\bin\Debug\netcoreapp3.1\ControlzEx.dll
+D:\Программы\Новая папка\Project\Student Program\bin\Debug\netcoreapp3.1\MahApps.Metro.dll
+D:\Программы\Новая папка\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Программы\Новая папка\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Программы\Новая папка\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Программы\Новая папка\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Программы\Новая папка\Project\Student Program\bin\Debug\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+D:\Программы\Новая папка\Project\Student Program\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Программы\Новая папка\Project\Student Program\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Программы\Новая папка\Project\Student Program\obj\Debug\netcoreapp3.1\Student Program.csprojAssemblyReference.cache
+D:\Программы\Новая папка\Project\Student Program\obj\Debug\netcoreapp3.1\LoginWindow\MainWindow.g.cs
+D:\Программы\Новая папка\Project\Student Program\obj\Debug\netcoreapp3.1\LoginWindow\SignIn.g.cs
+D:\Программы\Новая папка\Project\Student Program\obj\Debug\netcoreapp3.1\LoginWindow\SignUp.g.cs
+D:\Программы\Новая папка\Project\Student Program\obj\Debug\netcoreapp3.1\TestWindow\TestMainWindow.g.cs
+D:\Программы\Новая папка\Project\Student Program\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Программы\Новая папка\Project\Student Program\obj\Debug\netcoreapp3.1\Student Program_MarkupCompile.cache
+D:\Программы\Новая папка\Project\Student Program\obj\Debug\netcoreapp3.1\Student Program_MarkupCompile.lref
+D:\Программы\Новая папка\Project\Student Program\obj\Debug\netcoreapp3.1\App.baml
+D:\Программы\Новая папка\Project\Student Program\obj\Debug\netcoreapp3.1\LoginWindow\MainWindow.baml
+D:\Программы\Новая папка\Project\Student Program\obj\Debug\netcoreapp3.1\LoginWindow\SignIn.baml
+D:\Программы\Новая папка\Project\Student Program\obj\Debug\netcoreapp3.1\LoginWindow\SignUp.baml
+D:\Программы\Новая папка\Project\Student Program\obj\Debug\netcoreapp3.1\TestWindow\TestMainWindow.baml
+D:\Программы\Новая папка\Project\Student Program\obj\Debug\netcoreapp3.1\Student Program.g.resources
+D:\Программы\Новая папка\Project\Student Program\obj\Debug\netcoreapp3.1\Student Program.csproj.CoreCompileInputs.cache
+D:\Программы\Новая папка\Project\Student Program\obj\Debug\netcoreapp3.1\Student Program.AssemblyInfoInputs.cache
+D:\Программы\Новая папка\Project\Student Program\obj\Debug\netcoreapp3.1\Student Program.AssemblyInfo.cs
+D:\Программы\Новая папка\Project\Student Program\obj\Debug\netcoreapp3.1\Student Program.csproj.CopyComplete
+D:\Программы\Новая папка\Project\Student Program\obj\Debug\netcoreapp3.1\Student Program.dll
+D:\Программы\Новая папка\Project\Student Program\obj\Debug\netcoreapp3.1\Student Program.pdb
+D:\Программы\Новая папка\Project\Student Program\obj\Debug\netcoreapp3.1\Student Program.genruntimeconfig.cache

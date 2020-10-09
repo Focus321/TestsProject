@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "terOw8AwTp5DN5U3FWgJ0pqJlReHM8d39WvpZotmSUZrttyPCrCxJVBbzZ0cL9lSsprReqx7s5tYCv6EMRvIFQ==",
+  "success": true,
+  "projectFilePath": "D:\\Программы\\Новая папка\\Project\\Student Program\\Student Program.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fossa\\.nuget\\packages\\controlzex\\4.3.2\\controlzex.4.3.2.nupkg.sha512",
+    "C:\\Users\\Fossa\\.nuget\\packages\\mahapps.metro\\2.2.0\\mahapps.metro.2.2.0.nupkg.sha512",
+    "C:\\Users\\Fossa\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.8\\microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\Fossa\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.8\\microsoft.extensions.dependencyinjection.3.1.8.nupkg.sha512",
+    "C:\\Users\\Fossa\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.8\\microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\Fossa\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512",
+    "C:\\Users\\Fossa\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\Fossa\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Fossa\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
